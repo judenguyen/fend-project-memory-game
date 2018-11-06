@@ -28,4 +28,4 @@ Scoring:
 
 ## Scresnshot
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[Glimpse of Game]: https://raw.githubusercontent.com/judenguyen/fend-project-memory-game/master/matching-game.jpg "Screenshot of game"
