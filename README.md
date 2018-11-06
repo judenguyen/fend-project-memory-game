@@ -2,25 +2,30 @@
 
 This is a simple memory game from the Udacity's Front-End Web Developer Nanodegree.
 
+## How to Run the Game
+
+To run the game click [here](https://cdn.rawgit.com/judenguyen/fend-project-memory-game/master/index.html )
+
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [How to Run the Game](#run)
-* [Contributing](#contributing)
 
 ## Instructions
-
-## How to Run the Game
-To Run the gam
-
-https://cdn.rawgit.com/judenguyen/fend-project-memory-game/master/index.html
-
 There are 16 cards on the board. The player needs to match all 8 pairs in order to win the game.
 
 The game is timed and rated.
 
 Scoring:
 
-Under 9 = 3 stars
-9-15 = 2 stars
-Above 15 = 1 star
+* Under 9 moves = 3 stars
+* 9-15 moves = 2 stars = 2 stars
+* Above 15 moves = 1 star
+
+
+## Dependencies
+
+* The game uses Boostrap, Fontawesome and Google Fonts.
+
+## Scresnshot
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
