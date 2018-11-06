@@ -1,5 +1,7 @@
 # Memory Game Project
 
+This is a simple memory game from the Udacity's Front-End Web Developer Nanodegree.
+
 ## Table of Contents
 
 * [Instructions](#instructions)
@@ -7,14 +9,12 @@
 
 ## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+There are 16 cards on the board. The player needs to match all 8 pairs in order to win the game.
 
-To get started, open `js/app.js` and start building out the app's functionality
+The game is timed and rated.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+Scoring:
 
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+Under 9 = 3 stars
+9-15 = 2 stars
+Above 15 = 1 star
