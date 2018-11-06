@@ -5,9 +5,15 @@ This is a simple memory game from the Udacity's Front-End Web Developer Nanodegr
 ## Table of Contents
 
 * [Instructions](#instructions)
+* [How to Run the Game](#run)
 * [Contributing](#contributing)
 
 ## Instructions
+
+## How to Run the Game
+To Run the gam
+
+https://cdn.rawgit.com/judenguyen/fend-project-memory-game/master/index.html
 
 There are 16 cards on the board. The player needs to match all 8 pairs in order to win the game.
 
